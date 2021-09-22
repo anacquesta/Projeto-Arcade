@@ -208,6 +208,10 @@ footer p {
     padding-top: 40px;
 }
 
+.social:hover {
+    transform: scale(1.0);
+}
+
 .rodape {
     background-color: #141050;
     color: #5753a3;
